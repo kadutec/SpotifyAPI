@@ -18,8 +18,6 @@ Antes de começar a usar o SpotifyAPI, certifique-se de que você tenha as segui
 
 ## Instalação
 Clone o repositório:
-
-   ```sh
 - git clone https://github.com/your_username/spotifyAPI.git
 - Acesse a pasta do projeto: cd spotifyAPI
 - Instale as dependências: npm install
