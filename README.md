@@ -1,7 +1,5 @@
 # SpotifyAPI - Consumindo a API do Spotify
 
-![Spotify Logo](https://raw.githubusercontent.com/Kadungr/spotifyAPI/main/images/spotify-logo.png)
-
 ## Descrição do Projeto
 
 O SpotifyAPI é uma aplicação que consome a API pública do Spotify para fornecer o top 5 músicas mais escutadas no seu spotify
