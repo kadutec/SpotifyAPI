@@ -14,11 +14,11 @@ Antes de começar a usar o SpotifyAPI, certifique-se de que você tenha as segui
 
 - Node.js: [Site oficial](https://nodejs.org/)
 - Conta de desenvolvedor no Spotify: [Spotify for Developers](https://developer.spotify.com/)
-- o token, no qual o spotify disponibiliza no site: [Spotidy for Developers](https://developer.spotify.com/)
+- o token, no qual o spotify disponibiliza no site: [Spotify for Developers](https://developer.spotify.com/)
 
 ## Instalação
 Clone o repositório:
-- git clone https://github.com/your_username/spotifyAPI.git
+- git clone https://github.com/kadutec/spotifyAPI.git
 - Acesse a pasta do projeto: cd spotifyAPI
 - Instale as dependências: npm install
 
